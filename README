@@ -1,0 +1,5 @@
+Just place the files in the directory of your site where you want it to record the unique visits. What unique visits means is it  only records the IP address of a user once instead of multiple times giving you a better accurate site visit total. This will work for a Cydia repo too in case you'd like to  use it on your repo all you need to do is add this <? include 'counter.php' ?> to your depiction and it will display the site visits do the same for your website index file.
+
+
+For support for this please create a topic at:
+http://deathscreations.com 
